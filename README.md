@@ -1,4 +1,4 @@
 # demo
 my first repository
 <br>
-auther- shalini sorge(demo)
+auther- shalini sorge(demo my)
